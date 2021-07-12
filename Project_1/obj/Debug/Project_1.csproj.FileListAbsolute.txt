@@ -1,0 +1,14 @@
+C:\Users\John\source\repos\WPF_MVVM\Project_1\bin\Debug\Project_1.exe.config
+C:\Users\John\source\repos\WPF_MVVM\Project_1\bin\Debug\Project_1.exe
+C:\Users\John\source\repos\WPF_MVVM\Project_1\bin\Debug\Project_1.pdb
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\App.g.cs
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\Project_1_MarkupCompile.cache
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\Project_1_MarkupCompile.lref
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\Project_1.g.resources
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\Project_1.csproj.GenerateResource.cache
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\Project_1.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\Project_1.exe
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\Project_1.pdb
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\MainWindow.g.cs
+C:\Users\John\source\repos\WPF_MVVM\Project_1\obj\Debug\MainWindow.baml
