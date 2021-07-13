@@ -24,6 +24,10 @@
                 Width="130" Margin="5"
                 Command="{Binding RemoveCommand}"
                 CommandParameter="{Binding ElementName=TheListBox, Path=SelectedIndex}"/>
+        <Button DockPanel.Dock="Right" Content="Remove"
+                Width="130" Margin="5"
+                Command="{Binding RemoveCommand}"
+                CommandParameter="{Binding ElementName=TheListBox, Path=SelectedIndex}" VerticalAlignment="Top" HorizontalAlignment="Left"/>
         <!-- Коллекция -->
         <ListBox  x:Name="TheListBox" ItemsSource="{Binding MyValues}"/>
     </DockPanel>
