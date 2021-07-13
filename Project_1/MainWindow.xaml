@@ -34,7 +34,7 @@
         </ListBox>
 
         <StackPanel Grid.Column="1" DataContext="{Binding SelectedPhone}">
-            <TextBlock Text="Модель телефона" />
+			<TextBlock Text="Элемент rebase"  />
             <TextBox Text="{Binding Title, UpdateSourceTrigger=PropertyChanged}" />
             <TextBlock Text="Производитель" />
             <TextBox Text="{Binding Company, UpdateSourceTrigger=PropertyChanged}" />
